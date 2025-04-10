@@ -1,0 +1,37 @@
+{
+  "name": "Solana Token List",
+  "tags": {
+    "meme": {
+      "name": "Meme",
+      "description": "Meme tokens"
+    },
+    "studio-ghibli": {
+      "name": "Studio Ghibli",
+      "description": "Ghibli-inspired tokens"
+    },
+    "pepe": {
+      "name": "PEPE",
+      "description": "Pepe the Frog inspired tokens"
+    }
+  },
+  "timestamp": "2025-04-10T15:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "5ynwdXgq1pkS8KZjjtLRxidDHZkioLoupjZhmmdk4fNa",
+      "symbol": "SGPEPE",
+      "name": "Studio Ghibli PEPE",
+      "decimals": 9,
+      "logoURI": "https://jhutdiydk.github.io/sgpepe/sgpepe-logo.png",
+      "tags": [
+        "meme",
+        "studio-ghibli",
+        "pepe"
+      ],
+      "extensions": {
+        "website": "https://jhutdiydk.github.io/sgpepe",
+        "telegram": "https://t.me/Official_StudioGhibliPEPE"
+      }
+    }
+  ]
+}
